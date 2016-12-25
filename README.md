@@ -1,2 +1,2 @@
 # Textzer
-A command-line based text analizer
+A ruby command-line based text analizer.
